@@ -68,7 +68,7 @@ You can directly run it with default parameters.
 $ python evaluate.py --load_epoch 20 --img_path ./sample_dataset/Images/000032.jpg
 ```
 
-![](https://github.com/bigbrother33/Deep-Learning/blob/master/photo/1.PNG)
+![](https://github.com/cassiePython/Fast-RCNN/blob/master/Figure_1.png)
 
 ## References
 
